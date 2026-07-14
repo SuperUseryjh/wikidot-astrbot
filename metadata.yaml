@@ -1,0 +1,5 @@
+name: astrbot_plugin_wikidot
+desc: Wikidot 文章查询插件，通过 /wiki 命令搜索和查看文章
+author: yaoonion
+version: 1.0.0
+repo: https://github.com/yaoonion/wikidot-api
